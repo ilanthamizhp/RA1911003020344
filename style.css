@@ -1,0 +1,116 @@
+.my-head{
+    border-bottom: 1px solid #e0e6eb;
+
+}
+
+li.nav-item {
+    margin-right: 20px;
+}
+
+button.btn.btn-primary1 {
+    border-radius: 0px;
+    background: #71c371b8;
+    color: #075207;
+    border-color: #075207;
+}
+
+
+h1.bold-1 {
+    font-size: 200px;
+}
+
+p.bold-p {
+    font-size: 45px;
+}
+
+.radius-img{
+    border-radius: 10px 10px 0px 0px;
+}
+.bold-img {
+    margin-top: 60px;
+}
+p.bold-p1 {
+    margin-top: 54px;
+}
+
+.circle {
+    background: #fff;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border:1px solid;
+    border-color: black;
+    margin-top: 50px;
+}
+p.bold-circle {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.img-float{
+
+    /* position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1; */
+
+}
+
+.bold-block {
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+h5.bold-text {
+    color: #fff;
+    font-size: 40px;
+}
+
+p.bold-t1 {
+    color: #fff;
+}
+
+.img-float {
+    height: 245px;
+    margin-left: 100px;
+    margin-top: 21px;
+    margin-bottom: 33px;
+}
+.bg-dark {
+    position: inherit;
+    background-color: #343a40!important;
+}
+
+.bold-t2{
+    margin-top: 50px;
+    color: #fff;
+}
+
+
+    .my-bg {
+        position: initial;
+        background-color: #222426;
+    }
+    @media only screen and (min-width: 320px) and (max-width: 480px) {
+
+
+
+        h1.bold-1 {
+
+            font-size: 120px !important;
+
+        }
+
+        .img-float {
+
+            height: 245px;
+
+            margin-left: 0px;
+
+            margin-top: 21px;
+
+            margin-bottom: 33px;
+
+        }
+
+      }
